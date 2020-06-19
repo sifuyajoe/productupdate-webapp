@@ -33,7 +33,6 @@
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FHoussemDellai%2FWebAppWithDatabaseDemo%2Fmaster%2FAzureResourceGroupDeployment%2FWebSiteSQLDatabase.json" rel="nofollow">
     <img src="http://azuredeploy.net/deploybutton.png" style="max-width:100%;">
 </a>
-[![Board Status](https://dev.azure.com/gsb2308/dfe818b7-54cb-4992-a1ca-8414d0e2ba07/2b36e6bb-a405-48df-8801-657cd98836ba/_apis/work/boardbadge/5a997926-02ba-440f-92d8-0858e4b09bed)](https://dev.azure.com/gsb2308/dfe818b7-54cb-4992-a1ca-8414d0e2ba07/_boards/board/t/2b36e6bb-a405-48df-8801-657cd98836ba/Microsoft.FeatureCategory/)
-    <img src="https://dev.azure.com/gsb2308/dfe818b7-54cb-4992-a1ca-8414d0e2ba07/2b36e6bb-a405-48df-8801-657cd98836ba/_apis/work/boardbadge/5a997926-02ba-440f-92d8-0858e4b09bed"/>
+<img src="https://dev.azure.com/gsb2308/dfe818b7-54cb-4992-a1ca-8414d0e2ba07/2b36e6bb-a405-48df-8801-657cd98836ba/_apis/work/boardbadge/5a997926-02ba-440f-92d8-0858e4b09bed" style="max-width:100%;">
 </a>
 </br>
