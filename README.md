@@ -1,7 +1,5 @@
 # UpdateProduct-WebApp
-
 <br>
-
 <table>
   <tr>
     <td>Build status</td>
